@@ -9,8 +9,13 @@ import SwiftUI
 
 struct FavoriteView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationView {
+            Text("NO Favorites")
+                .navigationTitle("Favorites")
+        }
+        .navigationViewStyle(.stack)
     }
+        
 }
 
 struct FavoriteView_Previews: PreviewProvider {
