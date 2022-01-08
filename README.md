@@ -15,6 +15,11 @@ This application is used to new recipes with features:
 
 
 # Screenshots
+
+##
+## Home Page
+![alt text](https://github.com/shashwat-code/RecipeMaker/blob/main/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-01-08%20at%2022.13.16.png?raw=true)
+
 ##
 ## Home Page
 ![alt text](https://github.com/shashwat-code/RecipeMaker/blob/main/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-01-08%20at%2020.52.44.png?raw=true)
