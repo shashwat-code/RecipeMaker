@@ -10,6 +10,7 @@
 		20690BAE278953EB0077E20A /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20690BAD278953EB0077E20A /* CategoryView.swift */; };
 		20690BB0278958420077E20A /* AddNewRecipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20690BAF278958420077E20A /* AddNewRecipe.swift */; };
 		20690BB227896B4E0077E20A /* RecipesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20690BB127896B4E0077E20A /* RecipesViewModel.swift */; };
+		20969FA32789DD8300BC6DF1 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20969FA22789DD8200BC6DF1 /* Launch Screen.storyboard */; };
 		20EE3D872788B0860008D1E0 /* recipeMakerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20EE3D862788B0860008D1E0 /* recipeMakerApp.swift */; };
 		20EE3D892788B0860008D1E0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20EE3D882788B0860008D1E0 /* ContentView.swift */; };
 		20EE3D8B2788B08B0008D1E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20EE3D8A2788B08B0008D1E0 /* Assets.xcassets */; };
@@ -30,6 +31,7 @@
 		20690BAD278953EB0077E20A /* CategoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryView.swift; sourceTree = "<group>"; };
 		20690BAF278958420077E20A /* AddNewRecipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNewRecipe.swift; sourceTree = "<group>"; };
 		20690BB127896B4E0077E20A /* RecipesViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipesViewModel.swift; sourceTree = "<group>"; };
+		20969FA22789DD8200BC6DF1 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		20EE3D832788B0860008D1E0 /* recipeMaker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = recipeMaker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20EE3D862788B0860008D1E0 /* recipeMakerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = recipeMakerApp.swift; sourceTree = "<group>"; };
 		20EE3D882788B0860008D1E0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				20EE3DA02788B3300008D1E0 /* NewRecipes.swift */,
 				20EE3DA22788B34D0008D1E0 /* FavoriteView.swift */,
 				20EE3DA42788B3660008D1E0 /* SettingsView.swift */,
+				20969FA22789DD8200BC6DF1 /* Launch Screen.storyboard */,
 			);
 			path = Main;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20969FA32789DD8300BC6DF1 /* Launch Screen.storyboard in Resources */,
 				20EE3D8E2788B08B0008D1E0 /* Preview Assets.xcassets in Resources */,
 				20EE3D8B2788B08B0008D1E0 /* Assets.xcassets in Resources */,
 			);
