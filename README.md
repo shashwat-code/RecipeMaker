@@ -8,6 +8,7 @@ This application is used to new recipes with features:
 - Supports dark theme
 - Add new recipes 
 - Can access new recipes by other users
+- Have directions and ingredients section
 
 
 ![Logo](https://github.com/shashwat-code/RecipeMaker/blob/main/recipeMaker/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true)
