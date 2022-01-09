@@ -53,7 +53,7 @@ Implemented using **SWIFTUI**
  6.  Sheets
  7.  Arrays
  8.  Navigation
- 9.  Included AppIcon (https://apps.apple.com/in/app/assets-maker-for-xcode/id1561328879?mt=12)
+ 9.  Included AppIcon (App used to create AppIconSet: https://apps.apple.com/in/app/assets-maker-for-xcode/id1561328879?mt=12)
 
 ## Tech Stack
 
