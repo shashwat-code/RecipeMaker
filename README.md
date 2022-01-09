@@ -66,7 +66,7 @@ Implemented using **SWIFTUI**
 
 ## TO DO LIST
 
- - Add Setting View
- - Creating Favorite View, so as user can mark ant recipe as fav.
- - Adding Photos to recipe from User end.
- - Adding support to FireBase
+ - [ ] Add Setting View
+ - [ ] Creating Favorite View, so as user can mark ant recipe as fav.
+ - [ ] Adding Photos to recipe from User end.
+ - [ ] Adding support to FireBase
